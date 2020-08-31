@@ -4,7 +4,7 @@ int main() {
 	int n, x;
 	int MOD = 1000000007;
 	cin >> n >> x;
-	long long c[n];
+	int c[n];
 	for(int i = 0; i < n; i++) 
 		cin >> c[i];
 
